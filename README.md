@@ -1,5 +1,5 @@
 
-Hi.  I'm Akhil (also known as mystic). I am a cofounder of QU3ST, a Web3 start up.
+Hi.  I'm Akhil. I am a cofounder of QU3ST, a Web3 start up.
 
 Previously, I researched computational, mathematical and physical models to _predict_ __protein-protein interactions__
 and _improve_ __rational drug design__ with the [Applied BioComputation Group](https://abcgroup.cluspro.org).
