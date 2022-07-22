@@ -1,10 +1,6 @@
 
 Hi.  I'm Akhil. I am a cofounder of QU3ST, a Web3 start up.
 
-Previously, I researched computational, mathematical and physical models to _predict_ __protein-protein interactions__
-and _improve_ __rational drug design__ with the [Applied BioComputation Group](https://abcgroup.cluspro.org).
+In [grad school](https://abcgroup.cluspro.org) I [researched](https://scholar.google.com/citations?hl=en&user=9JvwM2UAAAAJ) rational drug design. We developed and applied ML+physics models to understand proteins and their interactions with small-molecules and other proteins.
 
-I have worked at [IBM](https://www.ibm.com/us-en/) and the [CDC](https://www.cdc.gov/), where I
-managed many __intellectual property (IP)__ activities, from preparation and prosecution of patents to creating 
-new internal IP policies and guidelines.
-
+As an engineer at [IBM](https://www.ibm.com/us-en/), I prepared (and prosecuted) patents at IBM. Later I did a technology transfer fellowship at the [CDC](https://www.cdc.gov/).
