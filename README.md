@@ -1,2 +1,2 @@
 
-Hi.  I'm [Akhil](https://www.akhiljindal.com)!
+hi, I'm [akhil](https://www.akhiljindal.com).
